@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 霜序廿的个人网站
+title: Mr.商的个人网站
 subtitle: ''
-description: 记录个人成长与生活，前端，算法，nlp
-keywords: 前端，算法，nlp，生活
-author: NianShuangxu
+description: 记录个人成长与生活，前端，算法
+keywords: 前端，算法，生活
+author: Mr.商
 language: zh-CN
 timezone: ''
 
@@ -103,6 +103,6 @@ theme: kaze
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/S-YeCheng/nian.github.io.git
+  repo: https://github.com/S-YeCheng/S-YeCheng.github.io.git
   branch: html
   message: blog
