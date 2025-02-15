@@ -1,10 +1,10 @@
 #------------------------
 # Header config
-title: 霜序廿的个人网站
-author: 霜序廿
+title: Mr.商的个人网站
+author: Mr.商
 # put the logo on the ${blog_path}/source/img/${picname}.png or use urls
-logo_img: https://q2.qlogo.cn/headimg_dl?dst_uin=2749909223&spec=5
-author_img: https://q2.qlogo.cn/headimg_dl?dst_uin=2749909223&spec=5
+logo_img: https://q2.qlogo.cn/headimg_dl?dst_uin=2327639869&spec=5
+author_img: https://q2.qlogo.cn/headimg_dl?dst_uin=2327639869&spec=5
 author_description: 一个爱算法的小前端
 #------------------------
 # Navbar config
@@ -210,7 +210,7 @@ artitalk:
   appKey: 
 editedArticle:
   enable: true
-  repo: https://github.com/S-YeCheng/nian.github.io
+  repo: https://github.com/S-YeCheng/S-YeCheng.github.io
 #------------------------
 # minify config
 # css minify uses autoprefixer and clean-css
