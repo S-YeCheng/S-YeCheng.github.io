@@ -103,6 +103,6 @@ theme: kaze
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/shuangxunian/shuangxunian.github.io.git
+  repo: https://github.com/S-YeCheng/nian.github.io.git
   branch: html
   message: blog
